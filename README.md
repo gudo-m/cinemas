@@ -1,2 +1,2 @@
-# cinemas
-Test console project. Run admin.py, setup this, and run client.py :)
+# Cinemas
+CLI project for cinemas controlling. Run admin.py, setup this, then run client.py :)
